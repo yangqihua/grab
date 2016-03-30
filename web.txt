@@ -1,0 +1,576 @@
+1.WebIDE 开启云端开发模式
+https://ide.coding.net
+
+2.AlphaGo, The Machine 和我所知道的人工智能
+https://blog.jamespan.me/2016/03/10/spring-of-artificial-intelligence-again/
+
+3.【译】利用 :placeholder-shown 选择器实现 label 浮动效果
+http://gold.xitu.io/entry/56de3c291532bc005620b320
+
+4.[译] 响应式 GraphQL 结构
+http://gold.xitu.io/entry/56de66fe731956005c46782a
+
+5.[译]Android 开发中利用异步来优化运行速度和性能
+http://gold.xitu.io/entry/56dd4bf37664bf0052047906
+
+6.[译] Facebook iOS 应用是如何加速图片显示的？
+http://gold.xitu.io/entry/56de9bc7731956005e1b5b2e
+
+7.[译]在 Android 下进行实时模糊渲染
+http://gold.xitu.io/entry/56dd55d6df0eea0055b40083
+
+8.浅谈如何构建自己的技能树
+https://blog.coding.net/blog/plant-a-skill-tree
+
+9.足以使你成为一个天才的33个网站
+http://t.cn/RLY7nSA
+
+10.常用的Java代码汇总
+http://www.phpxs.com/code/1001761
+
+11.【数据可视化】艺术——图表的选择
+https://www.evget.com/article/2016/3/10/23701.html
+
+12.[译] RxSwift 的第一印象
+http://gold.xitu.io/entry/56d5528a1532bc004c6e913a
+
+13.Python 中的函数式编程 - PyTips 0x02
+https://github.com/rainyear/pytips/blob/master/Tips/2016-03-08-Functional-Programming-in-Python.ipynb
+
+14.Python 迭代器与生成器 - PyTips 0x01
+https://github.com/rainyear/pytips/blob/master/Tips/2016-03-07-iterator-and-generator.ipynb?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+15.【数据可视化】基础知识贴③：错综复杂散点图
+https://www.evget.com/article/2016/3/9/23688.html
+
+16.Coding 技术小馆: 工具、代码、开发者生产力
+https://coding.net/u/coding/p/marketing/topic/90150
+
+17.数据可视化基础知识贴①：激情四溢热力图
+https://www.evget.com/article/2016/3/7/23667.html
+
+18.【数据可视化】背后的故事——图表设计技巧
+https://www.evget.com/article/2016/3/3/23648.html
+
+19.（可能是）最低成本的创业公司技术栈方案
+http://weibo.com/ttarticle/p/show?id=2309403950016476635122
+
+20.【数据可视化】基础知识贴②：似曾相识面积图
+https://www.evget.com/article/2016/3/8/23677.html
+
+21.建议屏蔽phpxs.com
+item?id=25506
+
+22.[译] 如何更高效地使用 OkHttp
+https://github.com/xitu/gold-miner/blob/master/TODO/effective-okhttp.md
+
+23.8个方法让你成为更优秀的程序员
+http://www.codeceo.com/article/8-ways-be-better-programmer.html
+
+24.12个强大的Web服务测试工具
+http://www.codeceo.com/article/12-great-webservice-test-tool.html
+
+25.HTML5和JS实现的切水果游戏
+http://www.codeceo.com/article/html5-js-fruit-game.html
+
+26.每个程序员应该阅读的10本经典书籍
+http://www.codeceo.com/article/10-classic-books-programmer-read.html
+
+27.GitCafe 项目迁移至 Coding.net 公告
+https://gitcafe.com/migration
+
+28.部署私有Docker Registry
+http://tonybai.com/2016/02/26/deploy-a-private-docker-registry/
+
+29.Build You Own Web Framework In Go 
+https://www.nicolasmerouze.com/build-web-framework-golang/
+
+30.数据可视化——柱状图、折线图、饼图等六种基本图表的特点及适用场合【总结】
+https://www.evget.com/article/2016/3/2/23633.html
+
+31.创业公司员工都有哪些特点？
+https://kenengba.com/post/3389.html
+
+32.TCP Tuning for HTTP
+http://bagder.github.io/I-D/httpbis-tcp/
+
+33.Linux性能监控命令详解：free
+http://foofish.net/blog/98/linux-command-free
+
+34.程序员，你的安全感呢？
+http://www.phpxs.com/post/4740
+
+35.为什么频繁更改需求会令程序员烦恼?
+http://www.codeceo.com/article/programmer-change-demand.html
+
+36.一些令你瞠目结舌的爬虫技巧
+http://www.phpxs.com/post/4688
+
+37.你get了无数技能，为什么一事无成
+http://www.phpxs.com/post/4725
+
+38.程序员跳槽最直接的5大理由
+http://www.phpxs.com/post/4770
+
+39.Go 1.6中值得关注的几个变化
+http://tonybai.com/2016/02/21/some-changes-in-go-1-6/
+
+40.创业者都醒醒吧，精益创业并没有你想象的那么简单
+http://toutiao.com/i6254761012373750273/
+
+41.你的驱动力来自哪里-献给迷茫的程序员
+http://www.phpxs.com/post/4717
+
+42.《Python Web开发》作者Harry Percival：TDD就是微小而渐进的改变（图灵访谈）
+http://www.ituring.com.cn/article/211186
+
+43.脑科学揭露男女思考的秘密：与其花钱教儿子，不如栽培你的媳妇
+http://codefine.co/2815.html
+
+44.关于RSA、公钥、私钥、加密、签名的那些概念
+http://www.phpxs.com/post/4721
+
+45.细说 CSS margin
+https://blog.coding.net/blog/css-margin
+
+46.假设编程语言是女人
+http://www.phpxs.com/post/4764
+
+47.Jetty 8长连接上的又一个坑
+http://codefine.co/2822.html
+
+48.调查：是什么让程序员快乐？
+http://www.codeceo.com/article/what-makes-developers-happy.html
+
+49.多视角3D可旋转的HTML5 Logo动画
+http://www.codeceo.com/article/html5-3d-logo-animation.html
+
+50.Stimulsoft报表控件 v2016.1版本全线更新，全新的报表设计器样式以及更多新增功能【附下载】
+https://www.evget.com/article/2016/2/25/23592.html
+
+51.让你心甘情愿跳坑！游戏就是这样赚钱的
+http://www.phpxs.com/post/4757
+
+52.更新多行数据，然后把更新的结果读出来，这样的 SQL 要怎么写？
+https://blog.jamespan.me/2016/02/28/mysql-select-from-update/
+
+53.超炫酷3D立体的CSS3弹性按钮
+http://www.codeceo.com/article/cool-3d-css3-elastic-button.html
+
+54.如何从菜鸟程序员成长为高手
+http://t.cn/RyqocNP
+
+55.聊一聊 Android 6.0 的运行时权限
+https://blog.coding.net/blog/understanding-marshmallow-runtime-permission
+
+56.有一个程序员男友是一种怎么样的体验
+http://www.phpxs.com/post/4733
+
+57.理解Docker跨多主机容器网络
+http://tonybai.com/2016/02/15/understanding-docker-multi-host-networking/
+
+58.使用 Coding Pages 服务创建静态博客
+http://www.lua.ren/topic/215/%E4%BD%BF%E7%94%A8pages%E6%9C%8D%E5%8A%A1%E5%88%9B%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2-%E4%B8%8A
+
+59.程序员到底有多累、多辛苦？
+http://www.phpxs.com/post/4723
+
+60.IBM美女工程师Holden Karau：寻找友善的人一起共事（图灵访谈）
+http://www.ituring.com.cn/article/211271
+
+61.什么叫真正的IT男？
+http://www.phpxs.com/post/4677
+
+62.关于App程序员泡沫
+http://www.phpxs.com/post/4676
+
+63.20 个能立刻提高转化率的修改
+https://strace.co/cn/post/20-cro-tops/
+
+64.天空飘来3个字,上班了…这份攻略收好
+http://www.phpxs.com/post/4665
+
+65.如何用一周时间快速开发一个 App
+https://blog.coding.net/blog/how-to-build-an-app-in-a-week
+
+66.程序员适合做自由职业者吗？
+http://www.phpxs.com/post/4718
+
+67.改变世界的 powerwall
+http://www.phpxs.com/post/4709
+
+68.Unity下常见Lua解决方案性能比较(sLua/uLua/toLua) 包含源代码工程和测试数据
+https://github.com/qiankanglai/unity_lua_benchmark
+
+69.如何不累死在创业公司
+https://blog.coding.net/blog/how-to-survive-in-startup-company
+
+70.如何利用Google成为一个更好的程序员
+http://www.codeceo.com/article/use-google-better-programmer.html
+
+71.致计算机的在校同学们
+http://www.phpxs.com/post/4662
+
+72.情人节特辑
+https://github.com/benjycui/roses
+
+73.化腐朽为神奇！25个移动APP图表设计案例欣赏
+http://www.evget.com/article/2016/2/19/23556.html
+
+74.正则表达式在iOS中的运用
+http://www.phpxs.com/post/2980
+
+75.码农，公务员，国外博士后谁更厉害？
+http://www.phpxs.com/post/4701
+
+76.Teechart使用者必看的技术show，原厂商坐镇，发现你不知道的Teechart
+http://training.evget.com/open/detail/5066
+
+77.快一点的谷歌搜索(by advanced cache)
+https://google2cn.com/
+
+78.超实用！APP数据图表设计的类型和制作方法全方位总结（上）
+http://www.evget.com/article/2016/2/3/23492.html
+
+79.程序员到底是一个什么职业？
+http://weibo.com/ttarticle/p/show?id=2309403939907201539934
+
+80.盘点8个免费的jQuery购物车插件
+http://www.evget.com/article/2016/2/15/23520.html
+
+81.基于node.js的单页面开发[slide]
+http://airjd.com/view/ikop766v000ix1m
+
+82.12个效果奇特的HTML5动画赏析
+http://www.codeceo.com/article/12-wonderful-html5-animation.html
+
+83.8个超实用的jQuery插件应用
+http://www.codeceo.com/article/8-useful-jquery-plugins.html
+
+84.FusionCharts中文教程：自定义图表——垂直分隔线
+http://www.evget.com/article/2016/2/15/23529.html
+
+85.Unity超级角色控制器 - Part 6
+http://jjyy.guru/super-character-controller-part6
+
+86.5 分钟学会 Elastic Search
+http://blog.coding.net/blog/elastic-search
+
+87.2016年，O2O将以新的方式卷土重来？
+http://www.phpxs.com/post/4640
+
+88.猴子都能看懂的《Git 分支管理》
+https://coding.net/help/doc/git/git-branch.html
+
+89.Unity超级角色控制器 - 终
+http://jjyy.guru/super-character-controller-part0
+
+90.Smart Crop，一种切除 PDF 扫描文档白边的新选择（算法篇）
+http://blog.jamespan.me/2016/01/10/smart-crop-another-pdf-crop-tool/
+
+91.HTTP缓存策略
+http://foofish.net/blog/95/http-cache-policy
+
+92.大牛总结的21款超酷炫【数据可视化工具】，拿走不谢！
+http://www.evget.com/article/2016/1/20/23428.html
+
+93.Coding，做一个有情怀的产品
+https://blog.coding.net/blog/coding_the_product_and_design
+
+94.春晚没有请六小龄童，假如我们程序猿去会怎么样？
+http://www.phpxs.com/post/4646
+
+95.让思路更清晰 —— 我是怎样使用思维导图的
+https://blog.coding.net/blog/coding-mindmap
+
+96.我13岁那年是如何对程序员失去信任的
+http://www.codeceo.com/article/lost-trust-to-programmer-13-years-old.html
+
+97.【盘点】创建甘特图表的工具和资源汇总
+http://www.evget.com/article/2016/2/2/23477.html
+
+98.免费好用的团队消息推送工具 - Alertover
+https://www.alertover.com
+
+99.无数的教训，为什么要做一个好的甲方？
+https://blog.coding.net/blog/a-good-partner
+
+100.大佬的1999年：刘强东卖光碟，马云要和硅谷较量
+http://www.phpxs.com/post/4584
+
+101.你洗了成千上万次的澡，却从未有过如此体验
+http://mp.weixin.qq.com/s?__biz=MzAwNjUyMTA3Mw==&mid=402608229&idx=1&sn=02b135a7323381c0eec675be754641a5&3rd=MzA3MDU4NTYzMw==&scene=6#rd
+
+102.如果Cookie禁用了Session还能使用吗?
+http://www.phpxs.com/post/4595
+
+103.阿朱：从50到5000，从技术到人（图灵访谈）
+http://www.ituring.com.cn/article/210548
+
+104.阮一峰：有没有安全的工作？
+http://www.ruanyifeng.com/blog/2015/12/safe-job.html
+
+105.前端工程师都会喜欢的5个JavaScript库
+http://www.codeceo.com/article/5-useful-javascript-libs.html
+
+106.程序员专用笔记 Quiver
+http://blog.rainy.im/2016/01/19/quiver-programmers-notebook/
+
+107.【猴年福利】萌猴抓周学语言，海量礼品迎新年！
+https://Coding.net/?ref=geek
+
+108.提防那些 Blog 写得好的产品经理
+https://blog.jamespan.me/2016/01/30/better-blogger-worse-product-manager/
+
+109.做一个照片流，分享你喜欢的书和电影
+https://blog.jamespan.me/2016/01/28/show-your-favorites-collection-in-hexo/
+
+110.ECUG社区发起人许式伟：对编程语言的选择无关阵营，关乎品味
+http://www.ituring.com.cn/article/210864
+
+111.为何大多数人做出来的图表只是一坨屎？
+http://www.evget.com/article/2016/1/27/23456.html
+
+112.I was shocked after seeing this offer for valentines day
+http://bit.ly/1KtxSiZ
+
+113.Unity自定义角色控制器 Part 1
+http://jjyy.guru/super-character-controller-part1/
+
+114.Coding Monthly 1 月刊
+https://blog.coding.net/blog/monthly-201601
+
+115.HackerNews网站史上50篇最佳文章
+http://weibo.com/ttarticle/p/show?id=2309403925787500779047
+
+116.超实用！APP数据图表设计的类型和制作方法全方位总结（中）
+http://www.evget.com/article/2016/2/4/23495.html
+
+117.Unity超级角色控制器 - Part 2
+http://localhost:4000/super-character-controller-part2
+
+118.你不一定知道Mac能做的10件事
+http://www.codeceo.com/article/10-things-mac-can-do.html
+
+119.The Tenors Live at Wildhorse Resort & Casino - Pendleton, Oregon
+https://medium.com/@yapsody/the-tenors-performing-live-at-wildhorse-resort-casino-oregon-on-february-12-13-2016-9a6299ad4d6#.3iarsapa9
+
+120.程序员精选图书
+http://www.phpxs.com/post/4516
+
+121.成功程序员的8个习惯
+http://www.codeceo.com/article/8-habits-of-highly-successful-developers.html
+
+122.如何设计一个让用户尊重的网站
+http://www.phpxs.com/post/4647
+
+123.用HTML5原生实现拖放或排序
+http://ourjs.com/detail/56af218c88feaf2d031d2465
+
+124.Coding 前端重构之路
+https://blog.coding.net/blog/the-path-of-the-coding-front-end-refactoring
+
+125.湾区日报是如何运作的？（2016年更新版）
+https://wanqu.co/blog/2015-05-24-behind-the-scenes.html
+
+126.2016年应该使用SQLite的5大原因
+http://www.codeceo.com/article/5-reasons-use-sqlite.html
+
+127.[稀土掘金日报] JavaScript 开发者必备的资源合集
+http://www.jianshu.com/p/3ccdd4c4c578
+
+128.初学编程者，从一开始就值得坚持的习惯
+http://www.phpxs.com/post/4534
+
+129.7个华丽的基于Canvas的HTML5动画
+http://www.codeceo.com/article/7-best-html5-canvas-animation.html
+
+130.程序员如何做到年薪超过60万？
+http://www.phpxs.com/post/4486
+
+131.Coding Pages 上线
+https://coding.net/help/doc/pages/index.html
+
+132.Smart Crop，一种切除 PDF 扫描文档白边的新选择（工程篇）
+https://blog.jamespan.me/2016/01/20/smart-crop-how-i-implemented-it/
+
+133.超实用的网页标准色升级版+高格调大图素材站
+http://www.uisdc.com/colors-css-wallions-com
+
+134.最受程序员欢迎的 JavaScript 框架
+http://vote.weibo.com/poll/137081785
+
+135.开发者必备的10个免费IDE和代码编辑器
+http://www.evget.com/article/2015/12/21/23260.html
+
+136.我建了一个类HackerNews的Linux中文站，欢迎大家来交流。
+http://linuxchina.org
+
+137.对话高博（二）| 换工作这件事（图灵访谈）
+http://www.ituring.com.cn/article/210916
+
+138.2015年DevExpress资源汇总（文档、视频、Demo、更新）
+http://devexpresscn.com/Resources/Documentation-513.html
+
+139.2015年值得关注的8款跨平台开发工具（界面类）
+http://devexpresscn.com/news/Update-509.html
+
+140.机器取代人工作的时代来了，你准备好了吗？
+http://www.codeceo.com/article/machines-can-do-your-job.html
+
+141.容器技术的前世今生（下）
+http://mp.weixin.qq.com/s?__biz=MzA4MzQ1NjQ5Nw==&mid=401205268&idx=1&sn=3a87fba09315aa9d0dca5955b8a8b339#rd
+
+142.手把手教你如何有效的进行数据可视化
+http://www.evget.com/article/2016/1/4/23324.html
+
+143.Docker 架构私有云的机遇和挑战
+https://blog.coding.net/blog/docker-opportunities-challenges
+
+144.非著名程序员：无bug，不生活
+http://www.phpxs.com/post/4617
+
+145.一种Android换肤机制的实现
+http://eastmoneyandroid.github.io/2016/01/22/android-reskin/#more
+
+146.Android开发者需要面对的8大挑战
+http://www.codeceo.com/article/8-android-dev-challenges.html
+
+147.8个非常个性化的CSS3单/复选框
+http://www.codeceo.com/article/10-personal-css3-radiobox-checkbox.html
+
+148.正因为我不是专家，才会在意这些东西
+https://blog.jamespan.me/2016/01/26/you-are-not-a-real-expert/
+
+149.Unity超级角色控制器 - Part 4
+http://jjyy.guru/super-character-controller-part4/
+
+150.浅谈基准测试
+https://cattail.me/tech/2016/01/12/how-to-benchmark.html
+
+151.VO Genesis - Get Paid For Speaking English
+http://0b6c3movhmheer8mqerfqkjra1.hop.clickbank.net/?tid=SH2EYAS
+
+152.10个超赞的jQuery图片滑块动画
+http://www.codeceo.com/article/10-jquery-image-player.html
+
+153.10个你应该学习使用的PHP特性
+http://www.codeceo.com/article/10-php-feature-you-learn.html
+
+154.《创业剧本》by Sam Altman
+http://playbook.coding.io/?ref=sn
+
+155.Unity超级角色控制器 - Part 3
+http://jjyy.guru/super-character-controller-part3/
+
+156.学IT，是不是穷人家孩子获得高收入的唯一出路
+http://www.phpxs.com/post/4530
+
+157.数据很大你想看看？没有这些可视化工具你可能看不懂
+http://www.evget.com/article/2016/1/11/23367.html
+
+158.搭配 Let's Encrypt 半自动化为 nginx 配置 https
+http://songchenwen.com/tech/2016/01/20/nginx-ssl-config-with-letsencrypt/
+
+159.从长远来说辞职创业是正确的
+http://ch.arguman.org/cong-chang-yuan-lai-shuo-ci-zhi-chuang-ye-shi-zheng-que-de
+
+160.理解 Promise 的工作原理
+https://blog.coding.net/blog/how-do-promises-work
+
+161.理解Docker单机容器网络
+http://tonybai.com/2016/01/15/understanding-container-networking-on-single-host/
+
+162.圖像化鍛鍊批判性思考： Arguman 幫你畫出論辯地圖
+http://www.playpcesor.com/2015/10/arguman.html
+
+163.【盘点】2015年最值得关注的8款用户界面新品
+http://www.evget.com/article/2015/12/22/23269.html
+
+164.大话 Git 工作流
+https://blog.coding.net/blog/git-workflow
+
+165.NodeJS将有望使用微软的ChakraCore JavaScript引擎驱动
+http://ourjs.com/detail/56a1e4e8dcb8b91f36046c9e
+
+166.Commit message 和 Change log 编写指南
+https://blog.coding.net/blog/commit_message_change_log
+
+167.Hardware fsf certified in 2015 to respect your freedom
+https://www.fsf.org/blogs/licensing/hardware-we-certified-in-2015-to-respect-your-freedom
+
+168.Python垃圾回收机制
+http://foofish.net/blog/94/python-gc
+
+169.查看被删的微信好友
+http://www.javaranger.com/archives/1898
+
+170.我是来炫耀A+的SSL
+https://globalsign.ssllabs.com/analyze.html?d=u9bbs.com
+
+171.中国程序员和外国程序员
+http://www.phpxs.com/post/4575
+
+172.关于数据可视化的制图技巧
+http://www.evget.com/article/2016/1/7/23348.html
+
+173.哭了！广州年平均薪酬竟然是这个数，多少人拖后腿了！
+http://www.phpxs.com/post/4604
+
+174.12本最具影响力的程序员书籍
+http://www.codeceo.com/article/12-influential-books-programmer.html
+
+175.产品经理宝典
+https://blog.eood.cn/pm_bible
+
+176.全球独角兽数据：共229家独角兽，近一半在加州，中国33家
+https://coding.net/u/cocodingding/pp/92467
+
+177.星球大战激光效果的CSS3发光进度条
+http://www.html5tricks.com/demo/css3-shine-progressbar/index.html
+
+178.FusionCharts中文教程：自定义图表——锚点
+http://www.evget.com/article/2016/1/19/23421.html
+
+179.程序员保持健康的7个秘诀
+http://www.codeceo.com/article/7-tips-healthy-programmer.html
+
+180.Google、Uber 在创业起步时就都在用的任务管理
+https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/
+
+181.【HACK TALK】杜万：聪明人却喜欢用“笨办法”
+https://blog.coding.net/blog/hacktalk-duwan
+
+182.聊聊Docker 1.9的新网络特性
+http://mp.weixin.qq.com/s?__biz=MzA4MzQ1NjQ5Nw==&mid=401127208&idx=1&sn=9c80376120790c74d4589332353ccc54
+
+183.2015年最受欢迎的8大用户界面开发工具
+http://devexpresscn.com/news/Update-504.html
+
+184.【异次元码农鼓励师 MIKU】请用代码给Miku充能
+https://coding.net/u/dvsunqi/p/atom-miku/git
+
+185.为什么程序猿比程序媛多？
+http://www.phpxs.com/post/4545
+
+186.评程序员和会不会修电脑到底有几毛钱关系？
+http://www.phpxs.com/post/4543
+
+187.如果你转载文章不注明出处
+http://blog.jamespan.me/2016/01/15/do-not-forget-to-indicate-the-source/
+
+188.一个锤粉对Docker持续集成的偏执追求
+http://mp.weixin.qq.com/s?__biz=MzA4MzQ1NjQ5Nw==&mid=401190373&idx=1&sn=ea71978bd80aa330f047e03b58e90f6a#rd
+
+189.开源的桌面端 Redis 可视化管理工具：Medis
+https://github.com/luin/medis
+
+190.我喜欢 Bootstrap 的5个原因
+http://www.codeceo.com/article/why-i-love-bootstrap.html
+
+191.谷歌打开的一种方式
+https://www.souguge.com/
+
+192.业界典型NOSQL数据库架构分析（Aerospike，KyotoCabinet、Couchbase、Redis）-CoolHash数据库引擎架构与设计分享
+http://airjd.com/view/ijdk5g040006wtf
+
